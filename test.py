@@ -1,4 +1,4 @@
-from progressbar import ProgressBar
+from progressbar33 import ProgressBar
 
 import time
 
